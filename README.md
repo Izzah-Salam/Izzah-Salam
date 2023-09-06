@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Izzah-Salam&label=Profile%20views&color=0e75b6&style=flat" alt="Izzah-Salam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izzahsalam12" alt="izzahsalam12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Izzah-Salam" alt="Izzah-Salam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/izzah_salam_" target="blank"><img src="https://img.shields.io/twitter/follow/izzah_salam_?logo=twitter&style=for-the-badge" alt="izzah_salam_" /></a> </p>
 
