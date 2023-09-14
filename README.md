@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/izzah_salam_" target="blank"><img src="https://img.shields.io/twitter/follow/izzah_salam_?logo=twitter&style=for-the-badge" alt="izzah_salam_" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, NodeJs**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 📫 How to reach me **izzahsalam00@gmail.com**
 
